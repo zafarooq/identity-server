@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fscv3OVOa16t135CeXI3scOTL5KI8fxPYgNQLY7ygbIMTwjgmlhGO5zYFkOVXul2gYCX4uzzAUAw/oH0hEHvwg==",
+  "dgSpecHash": "WM1+DCKZjfnNwjgmrC98E5cQEYhFUMJPLb2tx+JY31zv1t6FBafKhcYLjxGl0RWWbXKgBPbWGLjUhDbuKKVYPg==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Samples\\POC.IdentityServer\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zfarooq\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\zfarooq\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

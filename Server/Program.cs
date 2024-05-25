@@ -1,10 +1,24 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Server.Data;
+using Server.Extra;
+
+
+var seed = args.Contains("/seed");
+if (seed)
+{
+    args = args.Except(new[] { "/seed" }).ToArray();
+}
+
 
 var builder = WebApplication.CreateBuilder(args);
 var assembly = typeof(Program).Assembly.GetName().Name;
 var defaultConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+
+if (seed)
+{
+    SeedData.EnsureSeedData(defaultConnection);
+}
 
 builder.Services.AddDbContext<AspNetIdentityDbContext>(options =>
 {

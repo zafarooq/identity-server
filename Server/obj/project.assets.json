@@ -2607,11 +2607,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Samples\\POC.IdentityServer\\Server\\Server.csproj",
+      "projectUniqueName": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "D:\\Work\\Samples\\POC.IdentityServer\\Server\\Server.csproj",
+      "projectPath": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\Server\\Server.csproj",
       "packagesPath": "C:\\Users\\zfarooq\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Samples\\POC.IdentityServer\\Server\\obj\\",
+      "outputPath": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zfarooq\\AppData\\Roaming\\NuGet\\NuGet.Config",

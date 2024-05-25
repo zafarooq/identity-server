@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8kna1JMx2G0qlusYbQ7xIR1DGQFLxHViTab8Se/6LpdTy6DXwFuOK6yYDIavcbhpo1+svI4f5j1hJJk6ubvJ8g==",
+  "dgSpecHash": "4mw/pS74LdF0rijtJrTMiYRK7vhLbsDjAkm4Qe8A8GAp4BklftxaDHYYAR9N4OaiquRku/meoFgNu46Y9fW+bQ==",
   "success": true,
-  "projectFilePath": "D:\\Work\\Samples\\POC.IdentityServer\\Server\\Server.csproj",
+  "projectFilePath": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zfarooq\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\zfarooq\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

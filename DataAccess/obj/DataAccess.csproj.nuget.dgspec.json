@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Samples\\POC.IdentityServer\\DataAccess\\DataAccess.csproj": {}
+    "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Samples\\POC.IdentityServer\\DataAccess\\DataAccess.csproj": {
+    "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Samples\\POC.IdentityServer\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Work\\Samples\\POC.IdentityServer\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\zfarooq\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Samples\\POC.IdentityServer\\DataAccess\\obj\\",
+        "outputPath": "D:\\Work\\Samples\\POC.IdentityServer\\identity-server\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zfarooq\\AppData\\Roaming\\NuGet\\NuGet.Config",
