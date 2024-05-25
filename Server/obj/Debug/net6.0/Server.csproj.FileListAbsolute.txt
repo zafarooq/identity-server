@@ -153,3 +153,6 @@ D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\refin
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.pdb
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\ref\Server.dll
+D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\Server.staticwebassets.runtime.json
+D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cache
+D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cs

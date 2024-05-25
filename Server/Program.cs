@@ -45,7 +45,12 @@ builder.Services.AddIdentityServer()
     .AddDeveloperSigningCredential();
 
 var app = builder.Build();
+app.UseStaticFiles();
 
 app.UseIdentityServer();
-
+app.UseAuthorization();
+app.UseEndpoints(options =>
+{
+    options.MapDefaultControllerRoute();
+});
 app.Run();
