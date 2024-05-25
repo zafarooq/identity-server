@@ -77,6 +77,7 @@ D:\Work\Samples\POC.IdentityServer\Server\obj\Debug\net6.0\Server.genruntimeconf
 D:\Work\Samples\POC.IdentityServer\Server\obj\Debug\net6.0\ref\Server.dll
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\appsettings.Development.json
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\appsettings.json
+D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\Server.staticwebassets.runtime.json
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\Server.exe
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\Server.deps.json
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\Server.runtimeconfig.json
@@ -138,6 +139,8 @@ D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Serve
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cache
+D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cs
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.sourcelink.json
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\staticwebassets.build.json
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\staticwebassets.development.json
@@ -153,6 +156,3 @@ D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\refin
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.pdb
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
 D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\ref\Server.dll
-D:\Work\Samples\POC.IdentityServer\identity-server\Server\bin\Debug\net6.0\Server.staticwebassets.runtime.json
-D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cache
-D:\Work\Samples\POC.IdentityServer\identity-server\Server\obj\Debug\net6.0\Server.RazorAssemblyInfo.cs
